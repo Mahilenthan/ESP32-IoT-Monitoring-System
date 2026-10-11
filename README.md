@@ -43,6 +43,3 @@ The ESP32 reads temperature, humidity, and acceleration data. It checks for abno
 7. Verify sensor readings, alerts, and cloud reporting.
  Project Status
 Prototype — testing and validation required.
-
-## Author
-ECE Student | Embedded Systems | IoT
